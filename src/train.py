@@ -111,7 +111,7 @@ plt.legend()
 
 plt.show()
 
-# Evaluate tthe model's performance
+# Evaluate the model's performance
 loss, acc = model.evaluate(X_test_pad, y_test)
 print(f"Accuracy: {acc:.3f} \n Loss: {loss:.4f}")
 

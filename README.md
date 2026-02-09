@@ -69,6 +69,7 @@ pip install -r requirements.txt
 
 #Train the model
 python src/train_model.py
+# Save both trained model and tokenizer in /models
 
 # Run the FastAPI Server
 uvicorn src/main:app --reload

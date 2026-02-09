@@ -1,7 +1,7 @@
 # 📰 Fake News Detection using Bi-directional LSTM
 
 A deep learning project that classifies news articles as **Fake** or **Real** using a Bi-directional LSTM model.  
-The model achieves a final accuracy of **~97%** ✅ and includes a **FastAPI deployment** for real-time predictions.
+The model achieves a final accuracy of **~97%** and includes a **FastAPI deployment** for real-time predictions.
 
 ---
 
